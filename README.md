@@ -47,7 +47,7 @@ With the following software and hardware list you can run all code files present
 ### Related products <Other books you may enjoy>
 * A BIM Professional’s Guide to Learning Archicad [[Packt]](https://www.packtpub.com/product/a-bim-professionals-guide-to-learning-archicad/9781803246574) [[Amazon]](https://www.amazon.com/BIM-Professionals-Guide-Learning-Archicad/dp/180324657X)
 
-* Practical Autodesk AutoCAD 2023 and AutoCAD LT 2023 [[Packt]](https://www.packtpub.com/product/unreal-engine-5-character-creation-animation-and-cinematics/9781801812443) [[Amazon]](https://www.amazon.com/Practical-Autodesk-AutoCAD-2023-beginners/dp/1801816468)
+* Practical Autodesk AutoCAD 2023 and AutoCAD LT 2023 [[Packt]](https://www.packtpub.com/product/practical-autodesk-autocad-2023-and-autocad-lt-2023-second-edition/9781801816465) [[Amazon]](https://www.amazon.com/Practical-Autodesk-AutoCAD-2023-beginners/dp/1801816468)
 
 ## Get to Know the Author
 **Sualp Ozel** is a Professional Engineer and a senior product manager at Autodesk Inc. Sualp has 15 years of experience in planning road-maps based on market requirements to deliver timely enhancements to existing products and go to market with new offerings while meeting the market expected quality requirements. Since 2016, he has been managing Autodesk's Additive Manufacturing Software portfolio including Fusion 360, Netfabb, Netfabb Local Simulation and Within Medical. Sualp is also an adjunct instructor at Carnegie Mellon University since 2014, teaching the Introduction to CAD and CAE tools course within the Mechanical Engineering department
